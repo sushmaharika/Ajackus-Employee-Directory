@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Directory
 
 A modern, responsive, and interactive Employee Directory Web Interface built with Next.js, TypeScript, TailwindCSS, and shadcn/ui components.
@@ -244,3 +245,7 @@ This project is licensed under the MIT License.
 - [x] Modular, clean, and accessible code
 
 All required functionalities are now fully met and the UI is pixel-perfect and user-friendly.
+=======
+# Ajackus-Assignment
+ Employee Directory Web Interface 
+>>>>>>> 1a68d3790516f39f51591ecc4591d02182d35e41
